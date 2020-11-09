@@ -1,7 +1,7 @@
 # About this project
 This is an example of [ValueHelpDialog](https://sapui5.hana.ondemand.com/#/api/sap.ui.comp.valuehelpdialog.ValueHelpDialog) referencing Northwind OData service.
 
-The code is based on below sample code in SAPUI4 SDK.
+The code is based on below sample code in SAPUI5 SDK.
 https://sapui5.hana.ondemand.com/#/entity/sap.ui.comp.valuehelpdialog.ValueHelpDialog/sample/sap.ui.comp.sample.valuehelpdialog.filterbar
 
 # How to run this app
