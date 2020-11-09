@@ -1,0 +1,17 @@
+{
+	"cols": [
+		{
+			"label": "ProductId",
+			"template": "ProductID",
+			"width": "5rem"
+		},
+		{
+			"label": "Product Name",
+			"template": "ProductName"
+		},
+		{
+			"label": "Category",
+			"template": "CategoryID"
+		}
+	]
+}
