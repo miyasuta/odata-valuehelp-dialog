@@ -14,6 +14,16 @@
 		<filterBar>
 			<fb:FilterBar advancedMode="true" search=".onFilterBarSearch">
 				<fb:filterGroupItems>
+					<!-- <fb:FilterGroupItem
+						groupName="__$INTERNAL$"
+						name="ProductID"
+						label="Product ID"
+						visibleInFilterBar="true"
+					>
+						<fb:control>
+							<m:Input name="ProductID" />
+						</fb:control>
+					</fb:FilterGroupItem> -->
 					<fb:FilterGroupItem
 						groupName="__$INTERNAL$"
 						name="ProductName"
@@ -25,7 +35,7 @@
 						</fb:control>
 					</fb:FilterGroupItem>
 
-					<fb:FilterGroupItem
+					<!-- <fb:FilterGroupItem
 						groupName="__$INTERNAL$"
 						name="CategoryID"
 						label="Category"
@@ -34,7 +44,7 @@
 						<fb:control>
 							<m:Input name="CategoryID" />
 						</fb:control>
-					</fb:FilterGroupItem>
+					</fb:FilterGroupItem> -->
 				</fb:filterGroupItems>
 			</fb:FilterBar>
 		</filterBar>	
